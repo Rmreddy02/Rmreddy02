@@ -13,4 +13,4 @@ print(dir(data))
 
 # i=10
 
-     
+print(type(data))     
